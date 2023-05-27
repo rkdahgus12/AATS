@@ -1,7 +1,7 @@
 <img src = "./docs/img/README_TITLE.png">
 
 # AATS
-> Automatic Attendance and Tracking System
+> Automatic Attendance and Tracking Systems
 
 > __정신없조(D102)__  
 강모현, 박성환, 박재현, 양서정, 이병수, 최종현
